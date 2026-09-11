@@ -1,0 +1,16 @@
+{
+  "name": "Cuaderno de Las Cumbres",
+  "short_name": "Las Cumbres",
+  "description": "Rotación, mantenimiento y reservas de Las Cumbres 1 y 2.",
+  "lang": "es",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F2F4F1",
+  "theme_color": "#2D5B4A",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
